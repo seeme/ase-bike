@@ -69,7 +69,8 @@ public class Bike {
 	}
 
 	public void setThumbURL(String thumbURL) {
-		this.thumbURL = thumbURL;
+		this.thumbURL = thumbURL
 	}
 
+	
 }
