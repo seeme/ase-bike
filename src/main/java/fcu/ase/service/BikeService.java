@@ -19,7 +19,7 @@ import fcu.ase.dto.BikeDTO;
 @Path("/bikes")
 public class BikeService {
 
-	private static final String sEcho == "This is a bike service.";
+	private static final String sEcho = "This is a bike service.";
 
 	private BikeDAO bikeDAO = new BikeDAO();
 
