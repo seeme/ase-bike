@@ -72,4 +72,5 @@ public class Bike {
 		this.thumbURL = thumbURL;
 	}
 
+	
 }
