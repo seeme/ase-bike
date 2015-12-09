@@ -9,7 +9,7 @@ public class BikeServiceTest {
   @Test
   public void  testHello()
   {
-    Assert.assertEquals("a", "b");
+    Assert.assertEquals("a", "a");
   }
 
 }
