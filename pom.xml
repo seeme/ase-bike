@@ -44,7 +44,7 @@
                 <configuration>  
                     <consoleOutput>false</consoleOutput>  
                     <outputFileFormat>xml</outputFileFormat>  
-                    <configLocation>fcm-cs-check.xml</configLocation>  
+                    <configLocation>g.xml</configLocation>  
                     <linkXRef>false</linkXRef>  
                 </configuration>  
                 <dependencies>    
