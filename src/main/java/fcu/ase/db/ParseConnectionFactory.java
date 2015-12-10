@@ -23,6 +23,6 @@ public  class ParseConnectionFactory {
 	public static void main(String[] args) throws ParseException
 	{
 		ParseConnectionFactory.initializeParseConnection();
-	}
-	
+	}	
+
 }

@@ -23,7 +23,8 @@ public class BikeDAO {
 		ParseQuery<ParseObject> query = ParseQuery.getQuery(className);
 		List<ParseObject> lsObjs = query.find();
 		
-		for(ParseObject po: lsObjs){
+		for(ParseObject po: lsObjs)
+		{
 			Bike bike = new Bike();
 			bike.setId(po.getLong("bid"));
 			bike.setName(po.getString("name"));
